@@ -76,6 +76,7 @@ for (let index = 0; index < cardDetails.length; index++) {
     // three dots
     let tdots = document.createElement('img');
     tdots.src = Tdots
+    tdots.alt='dots'
 
     cardHead.appendChild(tdots)
     console.log(cardEl)
