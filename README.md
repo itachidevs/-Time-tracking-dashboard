@@ -122,5 +122,5 @@ for (let index = 0; index < cardDetails.length; index++) {
 
 - Website - [Itachidevs](https://itachidev.my.canva.site/)
 - Frontend Mentor - [@itachidevs](https://www.frontendmentor.io/profile/itachidevs)
-- Twitter - [@itachidevs](https://www.twitter.com/itachidevs)
+- Twitter - [@itachi_devs](https://www.twitter.com/itachi_devs)
 
